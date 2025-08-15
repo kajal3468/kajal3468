@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **WebDev**
 
-#- 💬 Ask me about **full stack development**
-
 ## 💻 GitHub Stats
 
 <p align="center">
