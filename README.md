@@ -3,12 +3,6 @@
 <h1 align="center">Hi 👋, I'm Kajal Kushwaha</h1>
 <h3 align="center">Aspiring Full Stack Developer | Starting My Coding Journey 🚀</h3>
 
----
-
-### 🗓️ Started Learning: **15 August 2025**
-> Today marks Day 1 of my journey to becoming a Full Stack Developer!
-
----
 
 ### 🌱 Currently Learning
 - HTML
