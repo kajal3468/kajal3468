@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Let's Connect
-- ✉️ Email: *kushwahakajal3468*
+- ✉️ Email: *kushwahakajal3468@gmail.com*
 - 🌐 Portfolio: *(coming soon...)*
 
 ---
