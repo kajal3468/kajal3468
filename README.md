@@ -8,19 +8,10 @@
 
 #- 💬 Ask me about **full stack development**
 
-- 📫 How to reach me [My Website](https://dilkhush9060.vercel.app)
-
-<h2 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/rohitk26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitk26" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit_26_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_26_07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajdilkhush0987654321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajdilkhush0987654321" height="30" width="40" /></a>
-</p>
-
 ## 💻 GitHub Stats
 
 <p align="center">
-  <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dilkhush9060&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kajal3468&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
   <a href="#"><img alt="Shikha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal3468&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a>
 </p>
 
